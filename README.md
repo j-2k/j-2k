@@ -26,10 +26,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast" />    
 
 - I'm an avid Developer & Content Creator.
-- Love Technical Art/Shaders, Game Development, & the 3rd Dimension.
+- Love Technical Art/Shaders & Game Development.
 - Aspiring to become a self-taught Graphics Engineer.
 - I hope you like what you see, more to come in the future.
-- Check out the links below, to see more cool stuff or know more about me.
+- Check out the links below, to know more about me.
 
 <div align="left"> 
   
