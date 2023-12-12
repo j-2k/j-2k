@@ -1,6 +1,9 @@
-<h1><p align="center">
-🌓 Hello! I'm Juma 🌗
-</p></h1>
+<div align="center">
+<h1 >
+🌓 Hello! I'm Juma 🌗  
+</h1>
+</div>
+
 <div align="center">
 <img width="35.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/6aa784a7-a43b-4e95-875a-376c76b86555">
 <img width="31.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/91b150fd-8386-4584-aae7-505be130b9ed">
@@ -20,10 +23,10 @@
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="19.4%">
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=cobalt" />    
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast" />    
 
 - I'm an avid Developer & Content Creator.
-- Love Technical Art & Game Development.
+- Love Technical Art/Shaders, Game Development, & the 3rd Dimension.
 - Aspiring to become a self-taught Graphics Engineer.
 - I hope you like what you see, more to come in the future.
 - Check out the links below, to see more cool stuff or know more about me.
