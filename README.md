@@ -12,9 +12,10 @@
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/ce1ca945-94f0-41e0-b235-8347cf2e0d4e" width="33%">
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/3a2d5022-e448-4a50-891a-a28e88e6ef23" width="33%">
 
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/1d80b1d9-c885-4233-963e-8b81055f32ba" width="32.1%">
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/3b7ceed9-2eea-42ae-98a1-95423089b88b" width="41.2%">
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="25.4%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/1d80b1d9-c885-4233-963e-8b81055f32ba" width="24.5%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/3b7ceed9-2eea-42ae-98a1-95423089b88b" width="31.5%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/c654890b-162a-4fee-92b2-be2a49adcae8" width="23%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="19.5%">
 
 
 
