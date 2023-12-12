@@ -26,7 +26,10 @@
 
 <div align="left"> 
   
-![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/jumaalremeithi)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jumaalremeithi)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumaalremeithi)
+[![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://j-2k.github.io)
 <img align="right" src="https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views"/>
 <p align="right"><sub><sup>⭐ 1,000 Views @ 12/10/23</sup></sub></p>
 
