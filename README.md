@@ -1,4 +1,3 @@
-
 <img width="35.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/6aa784a7-a43b-4e95-875a-376c76b86555">
 <img width="31.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/91b150fd-8386-4584-aae7-505be130b9ed">
 <img width="31.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/bd8d9013-d981-46a4-a8dd-7e664d5a8978">
@@ -17,7 +16,18 @@
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/c654890b-162a-4fee-92b2-be2a49adcae8" width="23%">
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="19.5%">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=cobalt" />    
 
+### 🌓 Hello! I'm Juma 🌗  
+- I'm an avid Developer & Content Creator.
+- Aspiring to become a Technical Artist & self-taught Graphics Engineer.  
+- I hope you like what you see, more to come in the future.
+- Check out the links below, to see more cool stuff or know more about me.
 
-![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)  
-<sub><sup>⭐ 1,000 Views @ 12/10/23</sup></sub>  
+<div align="left"> 
+  
+![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+<img align="right" src="https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views"/>
+<p align="right"><sub><sup>⭐ 1,000 Views @ 12/10/23</sup></sub></p>
+
+</div>
