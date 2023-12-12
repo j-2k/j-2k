@@ -1,7 +1,6 @@
 
 <img width="52%" src="https://github.com/j-2k/j-2k2024/assets/52252068/6aa784a7-a43b-4e95-875a-376c76b86555">
 <img width="46%" src="https://github.com/j-2k/j-2k2024/assets/52252068/91b150fd-8386-4584-aae7-505be130b9ed">
-
 <img width="54.5%" src="https://github.com/j-2k/j-2k2024/assets/52252068/bd8d9013-d981-46a4-a8dd-7e664d5a8978">
 <img width="45%" src="https://github.com/j-2k/j-2k2024/assets/52252068/64fe2e07-7c7b-4c4b-862b-0a6c3bc08582">
 
@@ -12,6 +11,9 @@
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/3b7ceed9-2eea-42ae-98a1-95423089b88b" width="41.2%">
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="25.4%">
 
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/824cd178-beeb-419e-8cc2-84421901ad24" width="33%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/ce1ca945-94f0-41e0-b235-8347cf2e0d4e" width="33%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/3a2d5022-e448-4a50-891a-a28e88e6ef23" width="33%">
 
 ![](https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views)  
 <sub><sup>⭐ 1,000 Views @ 12/10/23</sup></sub>  
