@@ -22,9 +22,12 @@
 <!-- <h3>
 2024
 </h3> -->
-<a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes.gif" width="33%"/> </a> <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection.gif" width="33%"/> </a> 
-<a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection_Debug.gif" width="33%"/> </a>
+
+<a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes.gif" width="32%"/> </a> <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection.gif" width="32%"/> </a> 
+<a  href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection_Debug.gif" width="32%" height=""/> </a>  
+
 </div>
+
 
 ---
 
