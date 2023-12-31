@@ -14,8 +14,8 @@
 
 <div align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/j-2k/j-2k/assets/52252068/0020619b-0993-4616-a078-beada5d9872c">
- <img alt="Juma Introduction (Light/Dark)" src="https://github.com/j-2k/j-2k/assets/52252068/ff8a3175-88c6-4695-8f3c-a4643ed6c767">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/j-2k/j-2k/assets/52252068/ba86e8eb-81bf-480c-9b3b-aebe67a815f9">
+ <img alt="Juma Introduction (Light/Dark)" src="https://github.com/j-2k/j-2k/assets/52252068/0d9d72d8-d371-455b-b965-ade67b0e4325">
 </picture>
   
 ---
