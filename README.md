@@ -35,7 +35,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast" />    
 
-  <a href=""> <img align="right" src="OptimizedGIFSunset.gif" width="25%" height="165px"/> </a>  
+
 
 - I'm an avid Developer & Content Creator.
 - Love Technical Art/Shaders & Game Development.
@@ -53,8 +53,13 @@
 [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://j-2k.github.io)
 </div>
 
----
 
+---
+<!--
+  <a href=""> <img align="" src="OptimizedGIFSunset.gif" width="25%" height=""/> </a>  
+
+---
+-->
 
 <div align="center">
 <!-- <h3>
