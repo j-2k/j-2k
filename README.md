@@ -35,14 +35,18 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast" />    
 
+  <a href=""> <img align="right" src="OptimizedGIFSunset.gif" width="25%" height="165px"/> </a>  
+
 - I'm an avid Developer & Content Creator.
 - Love Technical Art/Shaders & Game Development.
 - Aspiring to become a self-taught Graphics Engineer.
-- I hope you like what you see, more to come in the future.
+- I hope you like the shaders, more to come in the future.
 - Check out the links below, to know more about me.
 
 <div align="left"> 
-  
+ 
+
+ 
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/jumaalremeithi)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jumaalremeithi)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumaalremeithi)
