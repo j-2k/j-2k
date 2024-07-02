@@ -38,9 +38,10 @@
 
 
 - I'm an avid Developer & Content Creator.
-- Love Technical Art/Shaders & Game Development.
+- Love Technical Art/Shaders & Graphics Engineering.
 - Aspiring to become a self-taught Graphics Engineer.
 - I hope you like the shaders, more to come in the future.
+- Feel free to contact me on X if needed!
 - Check out the links below, to know more about me.
 
 <div align="left"> 
