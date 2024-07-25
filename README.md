@@ -23,6 +23,8 @@
 2024
 </h3> -->
 
+**These renders below are created with *only* code. Check the redirect link on each picture to see the code for yourself.**
+
 <a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes.gif" width="24.5%"/> </a> 
 <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection.gif" width="24.5%"/> </a> 
 <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection_Debug.gif" width="24.5%"/> </a>
