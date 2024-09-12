@@ -35,7 +35,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast" />    
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-2k&layout=compact&theme=highcontrast&bg_color=20,AA776A,584383" />    
 
 
 
