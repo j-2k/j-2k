@@ -83,11 +83,12 @@
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/ce1ca945-94f0-41e0-b235-8347cf2e0d4e" width="32.7%">
 <img src="https://github.com/j-2k/j-2k2024/assets/52252068/3a2d5022-e448-4a50-891a-a28e88e6ef23" width="32.7%">
 
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/1d80b1d9-c885-4233-963e-8b81055f32ba" width="24.4%">
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/3b7ceed9-2eea-42ae-98a1-95423089b88b" width="31.4%">
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/c654890b-162a-4fee-92b2-be2a49adcae8" width="23%">
-<img src="https://github.com/j-2k/j-2k2024/assets/52252068/001cab65-4e6f-4cdd-8a72-37124e00394a" width="19.4%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/1d80b1d9-c885-4233-963e-8b81055f32ba" width="24.0%">
+<img src="https://github.com/j-2k/j-2k2024/assets/52252068/3b7ceed9-2eea-42ae-98a1-95423089b88b" width="31.0%">
+<img src="https://github.com/user-attachments/assets/92d4a719-64f4-401a-b790-7240b811e1db" width="43.0%">
 </div>
+
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=j-2k&color=22ff22&style=flat&label=Views"/>
 <p align="right"><sup><sub>⭐ 1,000 Views @ 12/10/23</sub></sup></p>
